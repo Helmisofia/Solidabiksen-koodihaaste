@@ -7,7 +7,9 @@ Toteutettu Reactilla ja Material-ui -komponenttikirjaston avulla. Koodi on kirjo
 - Miten ratkaisu pystytetään ja käynnistetään
 
 Avaa cmd
+
 git clone https://github.com/Helmisofia/Solidabiksen-koodihaaste.git
+
 npm start
 
 - Kuvaus ratkaisusta
