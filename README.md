@@ -10,6 +10,8 @@ Avaa cmd
 
 git clone https://github.com/Helmisofia/Solidabiksen-koodihaaste.git
 
+cd Solidabiksen-koodihaaste
+
 npm start
 
 - Kuvaus ratkaisusta
